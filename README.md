@@ -1,4 +1,5 @@
 # Tickets Bot
+[![HitCount](http://hits.dwyl.com/py-rohit/tickets-bot.svg)](http://hits.dwyl.com/py-rohit/tickets-bot)
 
 This is a Discord bot meant to handle tickets for a server. 
 
